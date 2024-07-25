@@ -4,9 +4,9 @@ An assignment for DSC550 (Neural Networks and Deep Learning) at GCU that focused
 Check out the full report [here.](https://github.com/jhould007/DSC550-ANN-Model/blob/master/ANN%20Model.ipynb)
 
 # Assignment Instructions
-# Part 1
 
-Download the "NFL Players Dataset," located in the topic Resources. The dataset contains football players' characteristics.
+# Part 1
+Download the ["NFL Players Dataset"](https://www.kaggle.com/datasets/toddsteussie/nfl-play-statistics-dataset-2004-to-present/data), located in the topic Resources. The dataset contains football players' characteristics.
 
 1. Select from a pool of 200 "Active Players" and 200 "Retired Players." 
 2. Define "optimal team" based on your decision of the player characteristics necessary to build a team:
